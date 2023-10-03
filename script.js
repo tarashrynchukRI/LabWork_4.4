@@ -17,7 +17,7 @@ xk = parseInt(prompt("Введіть значення xk:"));
 dx = parseInt(prompt("Введіть значення dx:"));
 
 console.log("---------------------------");
-console.log("|" + "\tx\t" + "|" + "\tF\t" + "|");
+console.log("|" + "\tx\t" + "|" + "\ty\t" + "|");
 console.log("---------------------------");
 
 x = xp;
